@@ -9,3 +9,17 @@
 " : " = emojis 
 
 " > " = quoting txt
+
+
+
+* hello
+>me
+&the world
+
+`dragonfly`
+!(google)
+hello _me_ and the world
+
+
+
+[github](www.github.com)
