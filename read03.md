@@ -9,8 +9,8 @@ MY Name is Aysheh an Accountant, In the process of becoming  **DEVELOPER** and w
 
 | CONTENT |LINK |
 | ------------- | ------------- |
-| Growth mindset  | [read01.md](https://aysheh-mahfouz.github.io/reading_notes/)  |
-| Markdown   | [read02.md](https://aysheh-mahfouz.github.io/reading_notes/read02A)  |
+| Growth mindset  | [read01.md](https://aysheh-mahfouz.github.io/reading_notes/) |
+| Markdown | [read02.md](https://aysheh-mahfouz.github.io/reading_notes/read02A) |
 | Loops | [read05.md](https://aysheh-mahfouz.github.io/reading_notes/read05) |
 
 
