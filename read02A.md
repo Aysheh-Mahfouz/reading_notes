@@ -4,22 +4,14 @@
 
 "#"  = heading
 
-![img](link) = image
+! [img ] (link) = image
 
 " : " = emojis 
 
 " > " = quoting txt
 
-
-
-* hello
->me
-&the world
-
-`dragonfly`
-!(google)
-hello _me_ and the world
+** BOLD TXT **
 
 
 
-[github](www.github.com)
+[github](www.github.com) 
