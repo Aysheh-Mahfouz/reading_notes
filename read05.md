@@ -11,3 +11,8 @@ SUNDAY
 * _WHILE_loop_ Repeats a statement or statements while a given condition is true. It tests the condition before executing the loop body
 * _FOR_loop_ Execute a sequence of statements multiple times and abbreviates the code that manages the loop variable
 
+
+
+
+![loop](https://programmingpalace.files.wordpress.com/2012/06/i_will_not_do_it_again.jpg?w=640)
+
