@@ -13,12 +13,14 @@ Theres the internal and the external
 script in HTML to identify the css sheet
 ## //.<**link rel="stylesheet" href="CSS/style.css**"> ##
 
-<p> the space between two elements is called a _MARGIN_
-  <P> the space between the content and the border is called  _PADDING_
-    <p> An element that takes the full weidth of the page _BLOCK ELEMENT_
-      <p> An element that takes weidth only from the content _INLINE ELEMENE_
-We can give an ID to a section (fingerprint) #ID and a curvy bracket
- same to CLASS = container (family last name) .container
+<p> the space between two elements is called a _MARGIN|
+  <P> the space between the content and the border is called  _PADDING|
+    <p> An element that takes the full weidth of the page _BLOCK ELEMENT|
+    <p> An element that takes weidth only from the content _INLINE ELEMENE|
+        
+|We can give an ID to a section (fingerprint) #ID and a curvy bracket|
+
+ same to CLASS = container (family last name) .container |
   
   
   
