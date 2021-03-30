@@ -3,6 +3,8 @@
 # css #
 ## cascading style sheet ##
 
+![css](https://i.imgur.com/y5CKJs2.jpg)
+
 Theres the internal and the external
 
 ### *colors: ###
@@ -24,7 +26,7 @@ script in HTML to identify the css sheet
   
   
   
-   ![css](https://i.imgur.com/y5CKJs2.jpg)
+  
       
         
     
