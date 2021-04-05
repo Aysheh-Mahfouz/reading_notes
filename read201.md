@@ -1,3 +1,7 @@
+ # Reading Notes #
+ 4.APR.2021 
+ Sunday
+ 
  rules of a great Git commit message:
  (chris beams)
 
