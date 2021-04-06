@@ -17,5 +17,7 @@ a confirmation dialog box in Java ... by using ()
 
 A confirmation dialog is a simple dialog that asks the user to confirm an action.
 
+![](https://miro.medium.com/max/11138/1*1GAb2cu8aao8FfWcU3dE8A.jpeg)
+
 
 
